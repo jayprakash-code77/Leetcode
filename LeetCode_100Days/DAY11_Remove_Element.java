@@ -1,3 +1,4 @@
+package Leetcode.LeetCode_100Days;
 class Solution11{
     public static int  removeEle(int[] nums, int val){
         int ans=0; // this will count values not equal to "val".
