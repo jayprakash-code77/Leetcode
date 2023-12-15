@@ -27,6 +27,7 @@ class Solution15 {
 public class DAY15_Fizz_Buzz {
     public static void main(String[] args) {
 
+        // Example
         Solution15 s = new Solution15();
         System.out.println(s.fizzBuzz(3));
 
