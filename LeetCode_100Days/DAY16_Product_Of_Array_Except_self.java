@@ -3,7 +3,7 @@ package Leetcode.LeetCode_100Days;
 class Solution16 {
     public int[] productExceptSelf(int[] nums) {
 
-        // right
+        //  right
         int right[] = new int[nums.length];
         int p = 1;
         int n = nums.length;
