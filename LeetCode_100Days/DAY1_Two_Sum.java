@@ -18,6 +18,7 @@ class Solution {
                     arr[1] = j; // store index of seconf number
                     break;
                 }
+
             }
         }
         // return "arr" which contains index of two number in the array ans the sum of
@@ -45,5 +46,6 @@ public class DAY1_Two_Sum {
         int arr1[] = s.twoSum(arr, target);
         // printing "arr1" array
         printArray(arr1);
+        System.out.println("I am the end of this program.");
     }
 }
